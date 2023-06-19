@@ -1,0 +1,10 @@
+/* styles.css */
+.thead-dark {
+	background-color: black !important;
+	color: white;
+  }
+  
+  .table-row {
+	background-color: white;
+	border-bottom: 1px solid lightgray;
+  }
